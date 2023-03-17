@@ -1,0 +1,9 @@
+﻿  AES.cpp
+  main.cpp
+D:\visualStudio\Project\jijiji\jijiji\main.cpp(310,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\visualStudio\Project\jijiji\jijiji\main.cpp(345,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\visualStudio\Project\jijiji\jijiji\main.cpp(536,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\visualStudio\Project\jijiji\jijiji\main.cpp(537,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\visualStudio\Project\jijiji\jijiji\main.cpp(538,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  jijiji.vcxproj -> D:\visualStudio\Project\jijiji\x64\Debug\jijiji.exe
